@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 395,
+    "uniqCompNum": 397,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1438,7 +1438,7 @@
           "title": "Hvad er M-Files?",
           "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/slide-background-blue-2000x1125-3.png); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0,158,237);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"238\">Hvad er M-Files?</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"239\"><strong>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</strong><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, <strong>hvad</strong> det er – ikke <strong>hvor </strong>det er gemt.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/slide-background-blue-2000x1125-3.png); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0,158,237);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"467\">Hvad er M-Files?</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"468\"><strong>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</strong><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, <strong>hvad</strong> det er – ikke <strong>hvor </strong>det er gemt.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
@@ -1834,7 +1834,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(181,227,255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/JkQcisp2xpE?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n              \n                  <div class=\"card-block\">\n                      \n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"206\">Gem</h4>\n                    \n                    <p class=\"card-text mbr-editable-content\" style=\"font-size: 16px;\" code-editable-id=\"207\">Gem dokumenter hurtigt og nemt i M-Files, så de er nemme at finde for alle i virksomheden.</p>\n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/HinMeBuHzRM?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"208\">Søg</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"209\">At finde og søge information i M-Files er superhurtigt. M-Files søger både i filnavn, metadata og i dokumentteksten for at sikre, at du finder alt du har brug for.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/seTjogkSApc?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"210\">Views</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"211\">Dynamiske views er virtuelle mapper, der automatisk organiserer information efter, hvad det er og ikke hvor det er gemt.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(181,227,255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/JkQcisp2xpE?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n              \n                  <div class=\"card-block\">\n                      \n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"473\">Gem</h4>\n                    \n                    <p class=\"card-text mbr-editable-content\" style=\"font-size: 16px;\" code-editable-id=\"474\">Gem dokumenter hurtigt og nemt i M-Files, så de er nemme at finde for alle i virksomheden.</p>\n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/HinMeBuHzRM?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"475\">Søg</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"476\">At finde og søge information i M-Files er superhurtigt. M-Files søger både i filnavn, metadata og i dokumentteksten for at sikre, at du finder alt du har brug for.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/seTjogkSApc?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"477\">Views</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"478\">Dynamiske views er virtuelle mapper, der automatisk organiserer information efter, hvad det er og ikke hvor det er gemt.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\nH4 {\n\ttext-align: left;\n    margin-top:10px;\n}\nP {\n\ttext-align: left;\n}\n",
@@ -2423,11 +2423,37 @@
           },
           "text": "<h3>FIND din information hurtigere</h3><p>At finde sin information hurtigt blandt 100.000 vis af dokumenter og anden information kræver, at visnings- og søgefunktionaliteten er optimal. I M-Files kan man finde information på mange måder:</p><p><br></p><ul><li>I <b>Views</b>, der grupperer og filtrerer filer og andre informationer efter metadata. De kan enten være centralt definerede views eller individuelle views</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ved hjælp af <b>Simpel Søgning</b>, hvor man indtaster sit søgeord og straks kommer alle objekter der opfylder søgekriteriet til syne. Simpel søgning anvender en algoritme, der øverst viser objekter, det er mest sandsynligt at du leder efter.</span><br></li><li>Ved hjælp af <b>Avanceret Søgning</b>, hvor man kan præcisere sin søgning og dermed opnå et mindre udsnit af objekter at vælge imellem.</li></ul><p><br></p><p>Mennesker er forskellige, og vores erfaring er at nogle foretrækker views der er foruddefinerede, andre at lave egne views, andre igen blot at søge. M-Files tilbyder alle muligheder for at finde information og understøtter dermed brugerne forskelligheder.</p>",
           "_customCSS": "H3 {\n\ttext-align: left;\n\tfont-size: 25px;\n}\nUL {\n\tfont-size: 17px;\n}\nP {\n\tfont-size: 18px;\n\ttext-align: left;\n}\nDIV {\n\tfont-size: 18px;\n}\nH2 {\n\ttext-align: left;\n}\n",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"464\"><h3>Metadata styrer, hvor du har et ansvar</h3><p>I opsætningen af M-Files bestemmer man, hvilke informationer der skal knyttes sammen og knyttes dokumenterne. Her vil man typisk tilføje brugernavn som ansvarlig eller deltager. I søgefunktionaliteten kan man søge efter informationer, hvor man specifikt er nævnt.</p>\n               <div class=\"mbr-figure\" style=\"text-align: left; padding-top:10px;\"><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/0cyUpuSb5Ug\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n        \n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 30px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"492\"><h3>Metadata styrer, hvor du har et ansvar</h3><p>I opsætningen af M-Files bestemmer man, hvilke informationer der skal knyttes sammen og knyttes dokumenterne. Her vil man typisk tilføje brugernavn som ansvarlig eller deltager. I søgefunktionaliteten kan man søge efter informationer, hvor man specifikt er nævnt.</p>\n            \n            </div>\n        </div>\n        \n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
           "_anchor": "content1-ae"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-az",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/0cyUpuSb5Ug",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
@@ -2456,29 +2482,37 @@
           },
           "_anchor": "content1-ah",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<h3>Workflows</h3>"
+          "text": "<h3>Workflows</h3><p>M-Files kan workflows anvendes både på dokumenter og på anden information, for eksempel Projekter.</p>"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgColor": "#fff"
-          },
-          "text": "<h3>FIND din information hurtigere</h3><p>At finde sin information hurtigt blandt 100.000 vis af dokumenter og anden information kræver, at visnings- og søgefunktionaliteten er optimal. I M-Files kan man finde information på mange måder:</p><p><br></p><ul><li>I <b>Views</b>, der grupperer og filtrerer filer og andre informationer efter metadata. De kan enten være centralt definerede views eller individuelle views</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ved hjælp af <b>Simpel Søgning</b>, hvor man indtaster sit søgeord og straks kommer alle objekter der opfylder søgekriteriet til syne. Simpel søgning anvender en algoritme, der øverst viser objekter, det er mest sandsynligt at du leder efter.</span><br></li><li>Ved hjælp af <b>Avanceret Søgning</b>, hvor man kan præcisere sin søgning og dermed opnå et mindre udsnit af objekter at vælge imellem.</li></ul><p><br></p><p>Mennesker er forskellige, og vores erfaring er at nogle foretrækker views der er foruddefinerede, andre at lave egne views, andre igen blot at søge. M-Files tilbyder alle muligheder for at finde information og understøtter dermed brugerne forskelligheder.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"466\">\n                <div class=\"mbr-figure\" style=\"text-align: left; padding-top:10px;\"><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/IxMOY68Fkq0\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n        </div>\n        \n    </div>\n\n</section>",
-          "_customCSS": "H3 {\n\ttext-align: left;\n\tfont-size: 25px;\n}\nUL {\n\tfont-size: 17px;\n}\nP {\n\tfont-size: 18px;\n\ttext-align: left;\n}\nDIV {\n\tfont-size: 18px;\n}\nH2 {\n\ttext-align: left;\n}\n",
-          "_customTemplate": true,
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "content1-aj"
+          "_name": "image2",
+          "_anchor": "image2-b0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/IxMOY68Fkq0",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Konfigurere Metadata &nbsp;i M-Files"
         },
         {
           "_tags": [
@@ -2507,11 +2541,11 @@
           },
           "_anchor": "content1-ai",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<h3><span style=\"font-size: 18px; font-weight: 300; line-height: 1.5;\">&nbsp;M-Files kan workflows anvendes både på dokumenter og på anden information, for eksempel Projekter. Selv anvender vi workflows til Opportunities (Vi bruger M-Files til hele vor Customer Relationship Management (CRM)). I vores setup følger opportunities følgende trin i et M-Files workflow:</span><br></h3><ol><li>Lead</li><li>Qualified</li><li>Closed as Won</li><li>Closed as lost</li></ol><p><br></p><p>I hver trin kan der aktiveres en række funktioner, for eksempel:</p><ul><li>Sende en notifikation</li><li>Tildele en opgave</li><li>Give brugere adgangsrettigheder</li><li>Ændre/tilføje metadata</li><li>Og meget andet</li></ul><p><br></p><p>Hvis en gruppe brugere ikke skal forstyrres af alle leads, som endnu ikke er kvalificeret og gjort til qualified, kan man med adgangsrettigheder således styre, at gruppen ikke har adgangsrettigheder før opportunity er nået til dette trin. På denne måde kan man sørge for at brugerne får præcis den information der er relevant.</p>"
+          "text": "<h3><span style=\"font-size: 18px; font-weight: 300; line-height: 1.5;\">&nbsp;Selv anvender vi workflows til Opportunities (Vi bruger M-Files til hele vor Customer Relationship Management (CRM)). I vores setup følger opportunities følgende trin i et M-Files workflow:</span><br></h3><ol><li>Lead</li><li>Qualified</li><li>Closed as Won</li><li>Closed as lost</li></ol><p><br></p><p>I hver trin kan der aktiveres en række funktioner, for eksempel:</p><ul><li>Sende en notifikation</li><li>Tildele en opgave</li><li>Give brugere adgangsrettigheder</li><li>Ændre/tilføje metadata</li><li>Og meget andet</li></ul><p><br></p><p>Hvis en gruppe brugere ikke skal forstyrres af alle leads, som endnu ikke er kvalificeret og gjort til qualified, kan man med adgangsrettigheder således styre, at gruppen ikke har adgangsrettigheder før opportunity er nået til dette trin. På denne måde kan man sørge for at brugerne får præcis den information der er relevant.</p>"
         },
         {
           "_tags": [
