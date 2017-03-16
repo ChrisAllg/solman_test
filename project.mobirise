@@ -2498,7 +2498,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
