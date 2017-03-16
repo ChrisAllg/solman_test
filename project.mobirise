@@ -1454,7 +1454,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "16px"
+              "font-size": "17px"
             }
           },
           "_anchor": "buttons1-ak",
@@ -2000,7 +2000,7 @@
           "_anchor": "content1-9w",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "text": "<h2>Dokumenthåndtering med M-Files</h2><p>Studier viser, at selv i virksomheder der gør udstrakt brug af ERP, CRM og andre forretningssystemer ligger over 60% af virksomhedens informationer i dokumenter. I overvejende grad i simple dokumenter i Word, Excel, PowerPoint osv. Studier viser også, at i gennemsnit har virksomheder gemt 19 forskellige versioner af det samme dokument, ofte i forskellige foldere og i ekstra versioner på medarbejdernes egne PCer.</p><p><br></p><p>Med M-Files dokumenthåndtering er det meget lettere og hurtigere at finde relevant information end i traditionelle folder-baserede løsninger. M-Files holder styr på alle typer filer og information.</p>"
@@ -2024,7 +2024,7 @@
           "_params": {
             "imageSize": "23",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2111,8 +2111,8 @@
           "_anchor": "msg-box5-a8",
           "_params": {
             "imageSize": "70",
-            "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2237,8 +2237,8 @@
           "_anchor": "msg-box5-aa",
           "_params": {
             "imageSize": "70",
-            "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
