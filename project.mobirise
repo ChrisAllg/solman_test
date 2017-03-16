@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 394,
+    "uniqCompNum": 395,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -2702,6 +2702,20 @@
           "title": "<span style=\"font-weight: normal;\">Bedste system til Dokumenthåndtering</span>",
           "text": "<b>Top Ten reviews</b> har gennemgået de vigtigste leverandører af dokumenthåndtering og har fundet (de sidste 3 år), at M-Files er det bedste dokumenthåndteringssystem.<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Læs testen</a> <a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"#form\">Gratis Trial</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section id=\"form\"></section>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-ay",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": "mobirise3-blocks/components",
