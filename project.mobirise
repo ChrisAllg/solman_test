@@ -1596,9 +1596,9 @@
               "color": "@primaryColor"
             }
           },
-          "feature_title4": "Multi-platform (Win/Mac/Mobile)",
+          "feature_title4": "Multi-platform (Win/Mobile/Web)",
           "feature_subtitle4": "",
-          "feature_text4": "M-Files Desktop Client findes til Windows og Mac, og M-Files mobile app og web adgang gør dine data tilgængelige overalt.",
+          "feature_text4": "M-Files Desktop Client findes til Windows, og M-Files mobile app og web adgang gør dine data tilgængelige overalt.",
           "media5": {
             "iconFont": {
               "active": true,
