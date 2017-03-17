@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 397,
+    "uniqCompNum": 433,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1438,7 +1438,7 @@
           "title": "Hvad er M-Files?",
           "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/slide-background-blue-2000x1125-3.png); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0,158,237);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"467\">Hvad er M-Files?</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"468\"><strong>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</strong><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, <strong>hvad</strong> det er – ikke <strong>hvor </strong>det er gemt.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/slide-background-blue-2000x1125-3.png); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0,158,237);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"538\">Hvad er M-Files?</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"539\"><strong>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</strong><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, <strong>hvad</strong> det er – ikke <strong>hvor </strong>det er gemt.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
@@ -2573,7 +2573,12 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 60px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <figure class=\"mbr-figure\">\n                    <div><img src=\"@PROJECT_PATH@/assets/images/esdh-workflow-1400x280.png\"></div>\n\n                    \n\n                </figure>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "img {\n    max-width: 600px;\n}",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -2625,8 +2630,8 @@
           "_customCSS": "",
           "_anchor": "msg-box8-8w",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
@@ -2792,7 +2797,7 @@
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative extTabs1\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"elements-content\" style=\"padding-top: 100px; padding-bottom: 0px;\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                    <ul class=\"nav nav-tabs mbr-editable-content\" role=\"tablist\" code-editable-id=\"446\"><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-ax\">Gratis Trial</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-ax\">Personlig Demo</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-ax\">Kontakt os</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-ax\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-ax\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-ax\">Beautiful</a></li></ul>\n\n                    <div class=\"tab-content noScroll\">\n                        <div id=\"tab1extTabs1-ax\" class=\"tab-pane in active\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"447\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_0}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab2extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"448\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_1}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab3extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"449\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_2}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab4extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"450\">Tab heading 4</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"451\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab5extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"452\">Tab heading 5</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"453\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab6extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"454\">Tab heading 6</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"455\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative extTabs1\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"elements-content\" style=\"padding-top: 100px; padding-bottom: 0px;\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                    <ul class=\"nav nav-tabs mbr-editable-content\" role=\"tablist\" code-editable-id=\"540\"><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-ax\">Gratis Trial</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-ax\">Personlig Demo</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-ax\">Kontakt os</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-ax\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-ax\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-ax\">Beautiful</a></li></ul>\n\n                    <div class=\"tab-content noScroll\">\n                        <div id=\"tab1extTabs1-ax\" class=\"tab-pane in active\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"541\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_0}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab2extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"542\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_1}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab3extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"543\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_2}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab4extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"544\">Tab heading 4</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"545\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab5extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"546\">Tab heading 5</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"547\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab6extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"548\">Tab heading 6</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"549\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\" src=\"//solman.mautic.net/form/generate.js?id=11\"></script>",
@@ -2922,6 +2927,1641 @@
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-90",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#333333",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/solution-management-aps-230x128.png",
+              "height": 128,
+              "alt": "Solution Management ApS",
+              "link": "https://mobirise.com",
+              "title": "Solution Management ApS",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>IT for People</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Hjem</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-1h\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Software</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">M-Files</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dokumenthåndtering</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Elektronisk Sags- og Dokumenthåndtering (ESDH)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Find idn information hurtigere</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TIBCO Nimbus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Intrexx<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Løsninger</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Konsultentydelser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Om os</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Software Demos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://mobirise.com/\">Kontakt os</a></li>"
+        }
+      ]
+    },
+    "nimbus.html": {
+      "settings": {
+        "title": "Nimbus",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gratis Trial</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Bok en Demo</a>",
+          "title": "M-Files",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\nh1, h2, h3 {\n    color:#333;}\n\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n.mbr-section-title {\n\tcolor: #fff;\n\tfont-size: 36px;\n}\n\n.mbr-section-subtitle {\n\tcolor: #fff;\n}\n.btn {\n\tfont-size: 12px;\n\tfont-family: 'Oswald', sans-serif;\n    display:none;\n}\n",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding mbr-after-navbar\" style=\"background-color: rgb(239,239,239); padding-top: 100px !important; padding-bottom: 0px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h1>Business Process Management med Nimbus</h1>\n              </div>\n              \n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "msg-box2-b1"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-b2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright Solution Management ApS. All rights reserved."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slide-background-blue-2000x1125-3.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#4d84c2",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "file:///C:/Users/C.%20Allgulander/AppData/Local/Mobirise.com/Mobirise/projectData/m-files-overview-1400x793_3.jpg",
+              "link": "https://youtu.be/QuNgPhiZcX8",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://youtu.be/QuNgPhiZcX8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Hvad er M-Files?",
+          "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/slide-background-blue-2000x1125-3.png); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0,158,237);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"536\">Hvad er Nimbus?</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"537\"><strong>TIBCO Nimbus giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.</strong><br><br>&nbsp;Resultatet: det bliver lettere og hurtigere for medarbejderne til at gøre det rigtige på det rigtige tidspunkt, hvilket reducerer ineffektivitet og risiko og samtidig forbedrer compliance.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box7-b3"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "buttons1-b4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#1e83b8"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\"><strong>Videotur</strong></a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#form\" data-toolbar=\"-mbrBtnMove\"><strong>Gratis trial</strong></a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#anerkendt\" data-toolbar=\"-mbrBtnMove\">Anerkendt af Gartner</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#bedste\" data-toolbar=\"-mbrBtnMove\">Bedste system</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#98\" data-toolbar=\"-mbrBtnMove\">98% brugeraccept</a>"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#333333",
+              "text-align": "left",
+              "font-size": "15px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left",
+              "font-size": "15px",
+              "color": "#333333",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "15px",
+              "color": "#232323"
+            },
+            ".feature-title": {
+              "text-align": "left"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-b5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Hvad gør Nimbus?",
+          "subtitle": "<br>TIBCO Nimbus Enterprise er et BPM software produkt, som vi distribuerer i de nordiske og baltiske lande. Det er fokuseret på forretningen, bruger venlighed og på at hjælpe hver medarbejder til at forstå deres rolle og skabe succes for sig selv og virksomheden.<br>",
+          "feature_title1": "Dokumentere elegant jeres forretningsprocesser",
+          "feature_subtitle1": "",
+          "feature_text1": "- Nem kortlægning.<br>- Koordineret, veldrevet kortlægning.<br>- Direkte dokumentering i workshops<br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "hourglass",
+              "family": "et-line",
+              "active": true,
+              "size": "",
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Hold styr på alting i virksomheden.",
+          "feature_subtitle2": "",
+          "feature_text2": "M-filer kan håndtere alle former for data, fra forskellige kilder.&nbsp;Gem, sikre og dele alle dokumenter og anden information på ét sted med M-Files&nbsp;– selv i højt regulerede brancher.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "pricetags",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/processtyring-965x300.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Multi-platform (Win/Mobile/Web)",
+          "feature_subtitle4": "",
+          "feature_text4": "TIBCO Nimbus authors work through a user-friendly Web Client, which can be accessed by any browser regardles of operative system.<br><br>There is also a Desktop Client for Windows, for administrative functions.",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title5": "Out-of-the-box &amp; bespoke løsninger",
+          "feature_subtitle5": "",
+          "feature_text5": "M-Files kan konfigureres efter jeres unikke behov.&nbsp;<span style=\"letter-spacing: 0px; line-height: 24.99px;\">Der findes færdige løsninger til en ræke anvendelseområder, og M-Files er en nem platform til at udvikle egne løsninger.</span><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-b6",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Videotur</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Gratis trial</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"#dokument\" data-toolbar=\"-mbrBtnMove\">Dokumenthåndtering</a>  "
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section id=\"anerkendt\"></section>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-b7"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "B": {
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_customCSS": "",
+          "_anchor": "msg-box5-b8",
+          "_params": {
+            "imageSize": "45",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gartner-report-1400x959.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Anerkendt af Gartner",
+          "text": "<b>Analysefirmaerne Gartner og Forrester har begge listet M-Files som en af de førende leverandører af sags- og dokumenthåndtering.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://dms.m-files.com/l/8782/2016-09-27/3dcwy5?Reseller_ID_505\" data-toolbar=\"-mbrBtnMove\">Gartner review</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.m-files.com/en/Forrester-Wave-ECM-Business-Content-Services-Q3-2015?partner=505\" data-toolbar=\"-mbrBtnMove\">Forrester report</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Guided rundtur i M-Files",
+          "meta": "<br>Her er et udvalg af videoer der viser, hvordan man kan anvende M-Files til at styre al information!",
+          "_customHTML": "<section id=\"video1\" class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(0,158,237); padding-top: 40px; padding-bottom: 40px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h2 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(255, 255, 255);\" code-editable-id=\"415\">Guided rundtur i M-Files dokumenthåndtering</h2>\n                <h3 class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"416\"><span style=\"color: rgb(255, 255, 255);\">Her er et udvalg af videoer der viser, hvordan man kan anvende M-Files til at styre al information!</span><br></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: left;\n}\nH3 {\n\tfont-family: 'Lato', sans-serif;\n\tfont-size: 20px;\n\ttext-align: left;\n}\nH2 {\n\ttext-align: left;\n    margin-bottom: 10px; padding-top: 50px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "header3-b9"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(181,227,255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/JkQcisp2xpE?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n              \n                  <div class=\"card-block\">\n                      \n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"473\">Gem</h4>\n                    \n                    <p class=\"card-text mbr-editable-content\" style=\"font-size: 16px;\" code-editable-id=\"474\">Gem dokumenter hurtigt og nemt i M-Files, så de er nemme at finde for alle i virksomheden.</p>\n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/HinMeBuHzRM?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"475\">Søg</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"476\">At finde og søge information i M-Files er superhurtigt. M-Files søger både i filnavn, metadata og i dokumentteksten for at sikre, at du finder alt du har brug for.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/seTjogkSApc?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"477\">Views</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"478\">Dynamiske views er virtuelle mapper, der automatisk organiserer information efter, hvad det er og ikke hvor det er gemt.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\nH4 {\n\ttext-align: left;\n    margin-top:10px;\n}\nP {\n\ttext-align: left;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "features3-ba"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_customHTML": "<section id=\"video2\" class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(181,227,255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/ARxXR05ENcI?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n              \n                  <div class=\"card-block\">\n                      \n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"457\">Ret</h4>\n                    \n                    <p class=\"card-text mbr-editable-content\" style=\"font-size: 16px;\" code-editable-id=\"458\">I M-Files checker man dokumenter ud for at beskytte det imod at blive rettet af andre samtidigt. Når man er færdig, checker man blot ind igen, og andre kan se de ændringer der er foretaget.</p>\n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/Grtws6lT3TU?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"459\">Del</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"460\">Deling af dokumenter i M-Files er så let som et højreklik med musen. Hvad enten du skal sende en kopi til nogen eller samarbejde med kolleger, holder M-Files styr på det hele.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/wWtXpWTd-1Y?list=PL9ZZscNC_PghUq-kb2XVLqfa6Dn1Eb7L8\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                  </div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"461\">Mobil</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"462\">M-Files mobil adgang gør dine M-Files informationer (dokumenter, informationer, workflows) tilgængelige overalt. M-Files mobile app er tilgængelige på iTunes App Store, Google Play og Windows Phone Store.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_customCSS": "@import url(undefined);\nH4 {\n\ttext-align: left;\n    margin-top:10px;\n}\nP {\n\ttext-align: left;\n}\n",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "features3-bb"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-bc",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#4486aa"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Gratis trial</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#dokument\" data-toolbar=\"-mbrBtnMove\">Dokumenthåndtering</a>  "
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section id=\"dokument\"></section>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-bd"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            },
+            "H1": {
+              "font-size": "30px"
+            },
+            "H2": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-be",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<h2>Dokumenthåndtering med M-Files</h2><p>Studier viser, at selv i virksomheder der gør udstrakt brug af ERP, CRM og andre forretningssystemer ligger over 60% af virksomhedens informationer i dokumenter. I overvejende grad i simple dokumenter i Word, Excel, PowerPoint osv. Studier viser også, at i gennemsnit har virksomheder gemt 19 forskellige versioner af det samme dokument, ofte i forskellige foldere og i ekstra versioner på medarbejdernes egne PCer.</p><p><br></p><p>Med M-Files dokumenthåndtering er det meget lettere og hurtigere at finde relevant information end i traditionelle folder-baserede løsninger. M-Files holder styr på alle typer filer og information.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-bf",
+          "_params": {
+            "imageSize": "23",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/no-folders-300-e1474539771848-1400x1309.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Database i stedet for foldere",
+          "text": "Foldere har længe været det foretrukne medie til dokumenthåndtering, og er det formodentlig stadig. Men stort set alle folderstrukturer er ulogiske, udvikles i forskellige retninger over tid og bliver vanskelige både at gemme ny information i og at finde dokumenter i. Med det resultat at <b>du finder forkert information – langsomt.</b><br><br>For at finde din information hurtigere, handler det om at få dokumenterne organiseret på en måde, så de er enkle at finde for den medarbejder, der har brug for informationen på det aktuelle tidspunkt. Med M-Files dokumenthåndtering <b>finder du din information hurtigere.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "UL": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-bg",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<h3>FIND din information hurtigere</h3><p>At finde sin information hurtigt blandt 100.000 vis af dokumenter og anden information kræver, at visnings- og søgefunktionaliteten er optimal. I M-Files kan man finde information på mange måder:</p><ul><li>I <b>Views</b>, der grupperer og filtrerer filer og andre informationer efter metadata. De kan enten være centralt definerede views eller individuelle views</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ved hjælp af <b>Simpel Søgning</b>, hvor man indtaster sit søgeord og straks kommer alle objekter der opfylder søgekriteriet til syne. Simpel søgning anvender en algoritme, der øverst viser objekter, det er mest sandsynligt at du leder efter.</span><br></li><li>Ved hjælp af <b>Avanceret Søgning</b>, hvor man kan præcisere sin søgning og dermed opnå et mindre udsnit af objekter at vælge imellem.</li></ul><p><br></p><p>Mennesker er forskellige, og vores erfaring er at nogle foretrækker views der er foruddefinerede, andre at lave egne views, andre igen blot at søge. M-Files tilbyder alle muligheder for at finde information og understøtter dermed brugerne forskelligheder.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-bh",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/view-screenshot-1400x999.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Views",
+          "text": "I M-Files kan man finde information ved hjælp af Views, der grupperer og filtrerer filer og andre informationer efter metadata. De kan enten være centralt definerede views eller individuelle views.<br><br>I viewet <b>Manage Projects</b> klikker man på det relevante projekt og finder al information, herunder dokumenter.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Se Video \"Views\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-bi",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/advanced-search-1400x1475.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Simpel Søgning",
+          "text": "I M-Files kan man finde information ved hjælp af Simpel Søgning, hvor man indtaster sit søgeord og straks kommer alle objekter der opfylder søgekriteriet til syne.<br><br>Simpel søgning anvender en algoritme, der øverst viser de objekter, det er mest sandsynligt at du leder efter.<br><br>I Simpel søgning efter ordet Project finder M-Files både dokumenter og andre informationer der matcher ordet, og viser disse. Dokumenter og anden information er oplistet efter en personlig scoring, der øverst viser de objekter, det er mest sandsynligt at den konkrete bruger leder efter.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Se Video \"Søg\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-bj",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/advanced-search-1400x1475.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Avanceret søgning",
+          "text": "I M-Files kan man finde information ved hjælp af Avanceret Søgning, hvor man kan præcisere sin søgning og dermed opnå et mindre udsnit af objekter at vælge imellem.<br><br>I Avanceret søgning kan man begrænse søgningen til dokumenter alene, og kun få dokumenter frem, som opfylder kriteriet <b>Search Only: Documents:</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Se Video \"Søg\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-bk",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/advanced-search-1400x1475.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "I avanceret søgning kan man yderligere indsnævre antallet af fundne informationer ved at begrænse <b>Date created </b>til efter 1. januar 2015:<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "UL": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-size": "18px"
+            },
+            "H2": {
+              "text-align": "center",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-bl",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<h2>Find DIN information hurtigere</h2><h2><span style=\"font-weight: normal;\">Den information du får frem skal være relevant for dig og for den opgave du står over for.</span></h2>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "UL": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-size": "18px"
+            },
+            "H2": {
+              "text-align": "center",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-bm",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<h3>Personlige views</h3><div>I M-Files kan man derfor skabe egne views, ud over de views som etableres centralt. For eksempel kunne personlige views have et yderligere selektionskriterium:</div><ul><li>Projekter hvor du  er projektleder eller deltager.</li><li>Dokumenter som du  har skabt eller ændret i.</li><li>Dokumenter du  har læst de sidste 30 dage.</li></ul><div><br></div><div>Yderligere er det således, at hvis du med søgninger har brugt nogle kriterier, som virkelig passer til dit arbejde og som du gerne vil huske til næste gang, opgaven skal løses, så kan du gemme søgningen som et view. Så er den til rådighed for dig så længe du har brug for det.</div><div><br></div><h3>Personlige søgninger</h3><div>I søgninger kan du selvfølgelig selektere på informationer, hvor du står som ansvarlig eller deltager. Når M-Files viser resultatet af din søgning, vil score-algoritmen vise de elementer øverst, som det er mest sandsynligt du har interesse i.</div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<h3>FIND din information hurtigere</h3><p>At finde sin information hurtigt blandt 100.000 vis af dokumenter og anden information kræver, at visnings- og søgefunktionaliteten er optimal. I M-Files kan man finde information på mange måder:</p><p><br></p><ul><li>I <b>Views</b>, der grupperer og filtrerer filer og andre informationer efter metadata. De kan enten være centralt definerede views eller individuelle views</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ved hjælp af <b>Simpel Søgning</b>, hvor man indtaster sit søgeord og straks kommer alle objekter der opfylder søgekriteriet til syne. Simpel søgning anvender en algoritme, der øverst viser objekter, det er mest sandsynligt at du leder efter.</span><br></li><li>Ved hjælp af <b>Avanceret Søgning</b>, hvor man kan præcisere sin søgning og dermed opnå et mindre udsnit af objekter at vælge imellem.</li></ul><p><br></p><p>Mennesker er forskellige, og vores erfaring er at nogle foretrækker views der er foruddefinerede, andre at lave egne views, andre igen blot at søge. M-Files tilbyder alle muligheder for at finde information og understøtter dermed brugerne forskelligheder.</p>",
+          "_customCSS": "H3 {\n\ttext-align: left;\n\tfont-size: 25px;\n}\nUL {\n\tfont-size: 17px;\n}\nP {\n\tfont-size: 18px;\n\ttext-align: left;\n}\nDIV {\n\tfont-size: 18px;\n}\nH2 {\n\ttext-align: left;\n}\n",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 30px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"492\"><h3>Metadata styrer, hvor du har et ansvar</h3><p>I opsætningen af M-Files bestemmer man, hvilke informationer der skal knyttes sammen og knyttes dokumenterne. Her vil man typisk tilføje brugernavn som ansvarlig eller deltager. I søgefunktionaliteten kan man søge efter informationer, hvor man specifikt er nævnt.</p>\n            \n            </div>\n        </div>\n        \n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "content1-bn"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-bo",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/0cyUpuSb5Ug",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "UL": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-size": "18px"
+            },
+            "H2": {
+              "text-align": "center",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-bp",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<h3>Workflows</h3><p>M-Files kan workflows anvendes både på dokumenter og på anden information, for eksempel Projekter.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-bq",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/IxMOY68Fkq0",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Konfigurere Metadata &nbsp;i M-Files"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "UL": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-size": "18px"
+            },
+            "H2": {
+              "text-align": "center",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-br",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<h3><span style=\"font-size: 18px; font-weight: 300; line-height: 1.5;\">&nbsp;Selv anvender vi workflows til Opportunities (Vi bruger M-Files til hele vor Customer Relationship Management (CRM)). I vores setup følger opportunities følgende trin i et M-Files workflow:</span><br></h3><ol><li>Lead</li><li>Qualified</li><li>Closed as Won</li><li>Closed as lost</li></ol><p><br></p><p>I hver trin kan der aktiveres en række funktioner, for eksempel:</p><ul><li>Sende en notifikation</li><li>Tildele en opgave</li><li>Give brugere adgangsrettigheder</li><li>Ændre/tilføje metadata</li><li>Og meget andet</li></ul><p><br></p><p>Hvis en gruppe brugere ikke skal forstyrres af alle leads, som endnu ikke er kvalificeret og gjort til qualified, kan man med adgangsrettigheder således styre, at gruppen ikke har adgangsrettigheder før opportunity er nået til dette trin. På denne måde kan man sørge for at brugerne får præcis den information der er relevant.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-bs",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esdh-workflow-1400x280.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section id=\"98\"></section>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-bt"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#333333"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#232323"
+            },
+            ".lead H3": {
+              "text-align": "left",
+              "color": "#efefef"
+            },
+            ".lead BLOCKQUOTE": {
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_customCSS": "",
+          "_anchor": "msg-box8-bu",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<span style=\"font-weight: normal;\">98% brugeraccept</span>",
+          "text": "<p>M-Files har en meget intuitiv brugergrænseflade, indbygget i stifinderen (Windows Explorer/MacOS). M-Files gør brugeren i stand til at gemme, søge og arbejde med dokumenter og anden information uden problemer.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Gratis Trial</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Personlig Demo</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Se Video</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section id=\"bedste\"></section>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-bv"
+        },
+        {
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_styles": {
+            "H3": {
+              "text-align": "right",
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extHeader12-bw",
+          "_params": {
+            "imageSize": "57",
+            "bgText": "Number 1",
+            "bgTextStyle": "Ubuntu",
+            "bgTextColor": "#ccedff",
+            "bgTextSize": "300",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#85d2fb",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#3d8eb9",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/toptenreviews-1400x700.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Bedste system til Dokumenthåndtering</span>",
+          "text": "<b>Top Ten reviews</b> har gennemgået de vigtigste leverandører af dokumenthåndtering og har fundet (de sidste 3 år), at M-Files er det bedste dokumenthåndteringssystem.<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"http://www.toptenreviews.com/business/software/best-document-management-software/m-files-review/\">Læs testen</a> <a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"#form\">Gratis Trial</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section id=\"form\"></section>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-bx"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTabs1",
+          "_params": {
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#151515",
+            "showTitles": true
+          },
+          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\">Responsive</a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\">Creative</a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
+          "title1": "BOOST YOUR RANKING",
+          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
+          "title2": "BOOTSTRAP BUILDER",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title4": "Tab heading 4",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title5": "Tab heading 5",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "title6": "Tab heading 6",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative extTabs1\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"elements-content\" style=\"padding-top: 100px; padding-bottom: 0px;\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                    <ul class=\"nav nav-tabs mbr-editable-content\" role=\"tablist\" code-editable-id=\"446\"><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-ax\">Gratis Trial</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-ax\">Personlig Demo</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-ax\">Kontakt os</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-ax\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-ax\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-ax\">Beautiful</a></li></ul>\n\n                    <div class=\"tab-content noScroll\">\n                        <div id=\"tab1extTabs1-ax\" class=\"tab-pane in active\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"447\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_0}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab2extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"448\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_1}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab3extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"449\"></h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    {JS_CODE_2}\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab4extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"450\">Tab heading 4</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"451\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab5extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"452\">Tab heading 5</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"453\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab6extTabs1-ax\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"454\">Tab heading 6</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"455\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"//solman.mautic.net/form/generate.js?id=11\"></script>",
+            "<script type=\"text/javascript\" src=\"//solman.mautic.net/form/generate.js?id=10\"></script>",
+            "<script type=\"text/javascript\" src=\"//solman.mautic.net/form/generate.js?id=8\"></script>"
+          ],
+          "_customCSS": ".col-md-12 {\n    text-align:left;\n}",
+          "_customTemplate": true,
+          "_anchor": "extTabs1-by"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "color": "#cccccc",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "B": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-bz",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#27aae0"
+            }
+          },
+          "text1": "<span style=\"line-height: 1.5;\">Solution Management ApS</span><br>Ring +45 2141 6100<br>sales@solutionmanagement.eu<br>",
+          "text2": "<span style=\"line-height: 1.5;\">Arne Jacobsens Allé 7</span><br>2300 Copenhagen S<br>Denmark<br>VAT no. 32832792 (DK32832792)",
+          "text3": "Sitemap<br>LinkedIn<br>Til vores Blog<br>M-Files.com<br>TIBCO.com<br>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            },
+            ".navbar-toggler": {
+              "color": "#333333"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#333333"
+            },
+            ".link, .dropdown-item": {
+              "color": "#333333",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#333333",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#36bfff!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-c0",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "0.85",
