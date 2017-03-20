@@ -2346,7 +2346,10 @@ h6,
 #custom-html-cx .my-image {
   width: 100%;
 }
-#extTabs1-cy .col-md-12 {
+#extTabs1-dh h3 {
+  text-align: left;
+}
+#extTabs1-dh .col-md-12 {
   text-align: left;
 }
 #contacts1-cz P {
