@@ -151,7 +151,8 @@
             "bgColor": "#000000",
             "showBullets": true
           },
-          "_anchor": "slider2-er"
+          "_anchor": "slider2-er",
+          "_customCSS": "section {\n    color:#fff;\n}"
         },
         {
           "_tags": [
