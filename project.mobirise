@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "m-files.html",
     "name": "Solution Management 2",
     "theme": {
       "name": "mobirise3",
@@ -79,7 +79,7 @@
           "_name": "slider2",
           "_params": {
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "8",
             "paddingTop": "2",
             "paddingBottom": "0",
             "slides": [
@@ -165,7 +165,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h2>Software, der er nem at bruge</h2><p>Vi leverer nemme løsninger baseret på software fra vore partnere:<b> <a href=\"m-files.html\">M-Files (dokumenthåndtering og workflow)</a></b>, <a href=\"nimbus.html\">TIBCO Nimbus (dokumentation af forretningsprocesser)</a> samt <a href=\"intrexx.html\">Intrexx (low-code portalløsninge rog workflow)</a>.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden som certificerede partnere med vore leverandører, og har stor erfaring med at hjælpe såvel store som mellemstore og små virksomheder.</span></p>"
+          "text": "<h2>Vi leverer Software, der er nem at bruge</h2><p>Vi leverer nemme løsninger baseret på software fra vore partnere:<b> <a href=\"m-files.html\">M-Files (dokumenthåndtering og workflow)</a></b>, <a href=\"nimbus.html\">TIBCO Nimbus (dokumentation af forretningsprocesser)</a> samt <a href=\"intrexx.html\">Intrexx (low-code portalløsninge rog workflow)</a>.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden som certificerede partnere med vore leverandører, og har stor erfaring med at hjælpe såvel store som mellemstore og små virksomheder.</span></p>"
         },
         {
           "_tags": [
@@ -486,7 +486,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/checkboxes-5-2000x1200.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -3744,10 +3744,10 @@
           "title": "Hvad er M-Files?",
           "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/m-files-dokumenthandtering-bg-2000x1333.jpg); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0,158,237);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h2 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"1403\">Hvad er M-Files?</h2>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"1404\"><strong>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</strong><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, <strong>hvad</strong> det er – ikke <strong>hvor </strong>det er gemt.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/m-files-dokumenthandtering-bg-2000x1333.jpg); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(20,90,190);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h2 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"728\">Hvad er M-Files?</h2>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"729\" style=\"font-family: Lato, sans-serif;\"><strong>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</strong><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, <strong>hvad</strong> det er – ikke <strong>hvor </strong>det er gemt.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
           "_customTemplate": true,
           "_anchor": "msg-box7-c3"
         },
@@ -4464,7 +4464,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/advanced-search-1400x1475.png",
+              "src": "@PROJECT_PATH@/assets/images/simple-search-1400x1442.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4590,7 +4590,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/advanced-search-1400x1475.png",
+              "src": "@PROJECT_PATH@/assets/images/project-star-1400x627.png",
               "link": "",
               "alt": "",
               "title": "",
