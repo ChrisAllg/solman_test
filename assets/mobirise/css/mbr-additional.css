@@ -1778,9 +1778,6 @@ h6,
 
 
 
-
-
-
 #msg-box2-fa {
   
   
@@ -1829,61 +1826,6 @@ h6,
 }
 #content1-fe H2 {
   font-size: 30px;
-}
-#extFeatures8-ff .feature-title,
-#extFeatures8-ff .description {
-  color: #232323;
-}
-#extFeatures8-ff .feature-subtitle {
-  color: #333333;
-  text-align: left;
-  font-size: 15px;
-}
-#extFeatures8-ff .mbr-section-subtitle {
-  text-align: left;
-  font-size: 15px;
-  color: #333333;
-  font-family: 'Lato', sans-serif;
-}
-#extFeatures8-ff .mbr-section-title {
-  text-align: left;
-  font-size: 30px;
-}
-#extFeatures8-ff P {
-  text-align: left;
-  font-size: 15px;
-  color: #232323;
-}
-#extFeatures8-ff .feature-title {
-  text-align: left;
-}
-#buttons1-fg .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#custom-html-fh {
-  /* Type valid CSS here */
-}
-#custom-html-fh .my-image {
-  width: 100%;
-}
-#msg-box5-fi P {
-  color: #ffffff;
-  font-size: 20px;
-}
-#msg-box5-fi B {
-  font-size: 25px;
-  text-align: right;
-}
-#msg-box5-fi .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#msg-box5-fi H3 {
-  text-align: right;
-}
-#msg-box5-fi SPAN {
-  color: #ffffff;
 }
 #custom-html-fv .contact-form {
   color: #ffffff;
@@ -1973,5 +1915,146 @@ h6,
   font-size: 13px;
 }
 #ext_menu-fn .nav {
+  margin-top: 19px;
+}
+
+
+
+
+
+#msg-box2-fw {
+  
+  
+}
+#msg-box2-fw h1,
+#msg-box2-fw h2,
+#msg-box2-fw h3 {
+  color: #333;
+}
+#msg-box2-fw .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+}
+#msg-box2-fw .mbr-section-subtitle {
+  color: #fff;
+}
+#msg-box2-fw .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+  display: none;
+}
+#msg-box7-fy .mbr-section-title,
+#msg-box7-fy .lead p {
+  color: #fff;
+}
+#msg-box7-fy H3 {
+  text-align: left;
+}
+#msg-box7-fy B {
+  text-align: left;
+}
+#msg-box7-fy P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 18px;
+}
+#buttons1-fz .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 17px;
+}
+#content7-g7 H2 {
+  font-size: 25px;
+}
+#content7-g8 H2 {
+  font-size: 25px;
+}
+#custom-html-g2 .contact-form {
+  color: #ffffff;
+}
+#custom-html-g2 .contact-form button,
+#custom-html-g2 input,
+#custom-html-g2 select,
+#custom-html-g2 textarea {
+  color: #333333;
+}
+#contacts1-g4 P {
+  font-size: 17px;
+  color: #cccccc;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#contacts1-g4 B {
+  color: #ffffff;
+}
+#contacts1-g4 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-g5 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-g5 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+}
+#ext_menu-g5 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-g5 .close-icon::before,
+#ext_menu-g5 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-g5 .link,
+#ext_menu-g5 .dropdown-item {
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-g5 .link {
+  font-size: 0.85rem;
+}
+#ext_menu-g5 .dropdown-item,
+#ext_menu-g5 .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#ext_menu-g5 .link:hover,
+#ext_menu-g5 .dropdown-item:hover,
+#ext_menu-g5 .link:focus,
+#ext_menu-g5 .dropdown-item:focus {
+  color: #36bfff;
+}
+#ext_menu-g5 .link[aria-expanded="true"],
+#ext_menu-g5 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-g5 .nav-dropdown-sm .link:focus,
+#ext_menu-g5 .nav-dropdown-sm .link:hover,
+#ext_menu-g5 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-g5 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-g5 .navbar,
+#ext_menu-g5 .nav-dropdown-sm,
+#ext_menu-g5 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-g5 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-g5 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-g5 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-g5 .bg-color.transparent.opened .link:hover,
+#ext_menu-g5 .bg-color.transparent.opened .link:focus {
+  color: #36bfff;
+}
+#ext_menu-g5 .link[aria-expanded="true"],
+#ext_menu-g5 .dropdown-item[aria-expanded="true"] {
+  color: #36bfff!important;
+}
+#ext_menu-g5 .btn {
+  font-size: 13px;
+}
+#ext_menu-g5 .nav {
   margin-top: 19px;
 }
