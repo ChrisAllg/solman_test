@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "m-files.html",
+    "currentPage": "konsulentydelser.html",
     "name": "Solution Management 2",
     "theme": {
       "name": "mobirise3",
@@ -1129,7 +1129,7 @@
           },
           "_anchor": "msg-box1-en",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
@@ -4271,7 +4271,7 @@
           "title": "Hvad er M-Files?",
           "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 1; background-color: #1e83b8;\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left; display:none;\" code-editable-id=\"150\">Konsulentydelser</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"151\"><strong>Solution Management tilbyder konsulentydelser primært vedrørende indførelse af vores softwareløsninger.</strong><br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 1; background-color: #1e83b8;\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n   \n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"490\"><strong>Solution Management tilbyder konsulentydelser primært vedrørende indførelse af vores softwareløsninger.</strong></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
@@ -4296,7 +4296,7 @@
             "paddingBottom": 1,
             "bgColor": "#1e83b8"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Software demos</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"nimbus.html#msg-box1-en\" data-toolbar=\"-mbrBtnMove\">Personlig demo</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"nimbus.html#extFeatures8-b5\" data-toolbar=\"-mbrBtnMove\">Whitepapers</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#upn\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Software demos</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Personlig demo</a>  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Whitepapers</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"kontakt-os.html\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>  "
         },
         {
           "_tags": [
@@ -5319,7 +5319,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564140.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564147.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5335,7 +5335,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596141.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596148.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5351,7 +5351,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489142.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489149.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5367,7 +5367,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500143.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500150.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5455,7 +5455,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933144.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933151.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5818,7 +5818,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050145.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050152.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5988,7 +5988,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050146.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050153.jpg",
               "link": "",
               "alt": "",
               "title": "",
