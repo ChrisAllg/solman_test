@@ -5351,7 +5351,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x5640.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x5647.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5367,7 +5367,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x5961.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x5968.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5383,7 +5383,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x4892.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x4899.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5399,7 +5399,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x5003.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50010.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5487,7 +5487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x9334.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93311.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5743,7 +5743,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"display:none; opacity: 0.99; background-color: rgb(235,235,235);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n \n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"407\"><strong>TIBCO Nimbus giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.</strong><br><br><strong>Resultatet: </strong>det bliver lettere og hurtigere for medarbejderne til at gøre det rigtige på det rigtige tidspunkt, hvilket reducerer ineffektivitet og risiko og samtidig forbedrer compliance.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%; display:none;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 10px;\">\n\n    <div class=\"mbr-overlay\" style=\"display:none; opacity: 0.99; background-color: rgb(235,235,235);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n \n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"141\"><strong>TIBCO Nimbus giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.</strong><br><br><strong>Resultatet: </strong>det bliver lettere og hurtigere for medarbejderne til at gøre det rigtige på det rigtige tidspunkt, hvilket reducerer ineffektivitet og risiko og samtidig forbedrer compliance.</p>\n\n                  </div>\n\n                  \n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #232323;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
           "_customTemplate": true,
           "_PHPplaceholders": [],
@@ -5850,7 +5850,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x10505.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105012.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6020,7 +6020,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x10506.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105013.jpg",
               "link": "",
               "alt": "",
               "title": "",
