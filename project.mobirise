@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "intrexx.html",
+    "currentPage": "software-demos",
     "name": "Solution Management 2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 639,
+    "uniqCompNum": 640,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -462,7 +462,7 @@
             "paddingBottom": "3",
             "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Software demos</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"m-files.html#anerkendt\" data-toolbar=\"-mbrBtnMove\">Til Reviews</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Software demos</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"m-files.html#anerkendt\" data-toolbar=\"-mbrBtnMove\">Til Reviews</a>"
         },
         {
           "_styles": {
@@ -520,7 +520,7 @@
             "paddingBottom": "3",
             "bgColor": "#f9f9f9"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Få mer at vide</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Få en demo</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
         },
         {
           "_inherit": "msg-box8",
@@ -591,7 +591,7 @@
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Demo af løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"losninger.html\" data-toolbar=\"-mbrBtnMove\">Til løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
         },
         {
           "_customTemplate": true,
@@ -4622,14 +4622,6 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-gm",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text1": "<p><b>Solution Management ApS</b></p><p><br></p><p><b>Telefon: </b>+45 2141 6100</p><p><b>Email: </b><a href=\"mailto:sales@solutionmanagement.eu\" class=\"text-black\">sales@solutionmanagement.eu</a></p>",
-          "text2": "<p><span style=\"line-height: 1.5;\">Arne Jacobsens Allé 7</span><br></p><p>2300 Copenhagen S</p><p>Denmark</p><p>VAT no. 32832792 (DK32832792)</p>",
           "_styles": {
             "P": {
               "color": "#232323",
@@ -4638,7 +4630,15 @@
             "H4": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_anchor": "content6-gm",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p><b>Solution Management ApS</b></p><p><br></p><p><b>Telefon: </b>+45 2141 6100</p><p><b>Email: </b><a href=\"mailto:sales@solutionmanagement.eu\" class=\"text-black\">sales@solutionmanagement.eu</a></p>",
+          "text2": "<p><span style=\"line-height: 1.5;\">Arne Jacobsens Allé 7</span><br></p><p>2300 Copenhagen S</p><p>Denmark</p><p>VAT no. 32832792 (DK32832792)</p>"
         },
         {
           "_name": "footer1",
@@ -4662,6 +4662,19 @@
             "Theme"
           ],
           "_name": "features3",
+          "_customCSS": "img {\n    max-height: 240px;\n}",
+          "_styles": {
+            "H5": {
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "17px"
+            }
+          },
           "_anchor": "features3-gl",
           "_params": {
             "paddingTop": "1",
@@ -4768,20 +4781,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customCSS": "img {\n    max-height: 240px;\n}",
-          "_styles": {
-            "H5": {
-              "text-align": "center",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "17px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_customTemplate": true,
@@ -4793,15 +4793,27 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-gr",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-gr"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            "H3": {
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box5-gq",
           "_params": {
             "imageSize": "24",
@@ -4848,37 +4860,25 @@
           },
           "title": "Om os",
           "text": "<b>Solution Management er en nordisk softwarevirksomhed, der leverer løsninger inden for dokumentation af forretningsprocesser, dokumenthåndtering og ”low-code” portalløsninger, der hurtigt kan etablere en softwareløsning til understøtning af vigtige forretningsprocesser.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px"
-            },
-            "H3": {
-              "text-align": "left"
-            },
-            "B": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content1-gn",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "5",
             "bgColor": "#ffffff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Vort fokus er at levere løsninger, der hjælper den enkelte medarbejder til at opnå succes ved at gøre det så enkelt som muligt at forstå sin rolle og sine opgaver, at få adgang til information og rette dokumenter hurtigt og at samarbejde bedst muligt med kolleger.</span></p><p><br></p><p>Vi leverersoftwareløsningerne M-Files (dokumenthåndtering og workflow), TIBCO Nimbus (dokumentation af forretningsprocesser) samt Intrexx (low-code portalløsninger og workflow). Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden.</p><p><br></p><p>Vi er certificerede partnere med vore leverandører, og har storerfaring med at hjælpe såvel store som mellemstore og små virksomheder. Vi har særlig erfaring med at arbejde med kvalitet og compliance. Således har vi hjulpet virksomheder med at dokumentere visuelle forretningsprocesser til understøtning af ISO Certificering. Ligeledes har vi implementeret dokumenthåndteringssystemer i sammenhæng med de visuelle forretningsprocesser.</p><p><br></p><p>Herudover har vi udviklet workflow- og portalløsninger til varetagelse afopgaver omkring kvalitetssystemerne, herunder hændelser, afvigelser (CAPA), Change Requests osv.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Vort fokus er at levere løsninger, der hjælper den enkelte medarbejder til at opnå succes ved at gøre det så enkelt som muligt at forstå sin rolle og sine opgaver, at få adgang til information og rette dokumenter hurtigt og at samarbejde bedst muligt med kolleger.</span></p><p><br></p><p>Vi leverersoftwareløsningerne M-Files (dokumenthåndtering og workflow), TIBCO Nimbus (dokumentation af forretningsprocesser) samt Intrexx (low-code portalløsninger og workflow). Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden.</p><p><br></p><p>Vi er certificerede partnere med vore leverandører, og har storerfaring med at hjælpe såvel store som mellemstore og små virksomheder. Vi har særlig erfaring med at arbejde med kvalitet og compliance. Således har vi hjulpet virksomheder med at dokumentere visuelle forretningsprocesser til understøtning af ISO Certificering. Ligeledes har vi implementeret dokumenthåndteringssystemer i sammenhæng med de visuelle forretningsprocesser.</p><p><br></p><p>Herudover har vi udviklet workflow- og portalløsninger til varetagelse afopgaver omkring kvalitetssystemerne, herunder hændelser, afvigelser (CAPA), Change Requests osv.</p>"
         },
         {
           "_tags": [
@@ -5169,18 +5169,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "content1-hi",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Here you will find links to free trials, demonstrations, whitepapers and other resources for our software solutions.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "text": "<p>Here you will find links to free trials, demonstrations, whitepapers and other resources for our software solutions.</p>"
         },
         {
           "_tags": [
@@ -5212,27 +5212,27 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-ho",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-ho"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-hj",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgColor": "#004f6c"
           },
-          "text": "<h2>M-Files (dokumenthåndtering og ESDH)</h2>",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<h2>M-Files (dokumenthåndtering og ESDH)</h2>"
         },
         {
           "_customTemplate": true,
@@ -5244,9 +5244,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-h2",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-h2"
         },
         {
           "_tags": [
@@ -5289,9 +5289,9 @@
           "_customHTML": "<section id=\"whitepapers\" class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(35, 35, 35); font-size: 30px;\" code-editable-id=\"356\">Whitepapers, artikler og Ebooks <span style=\"font-weight: normal;\">(Engelsk text):</span><br></h3>\n                \n            </div>\n        </div>\n    </div>\n</section>",
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\n",
           "_customTemplate": true,
-          "_anchor": "header3-hg",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "header3-hg"
         },
         {
           "_tags": [
@@ -5351,7 +5351,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56450.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x5640.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5367,7 +5367,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59651.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x5961.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5383,7 +5383,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48952.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x4892.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5399,7 +5399,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50053.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x5003.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5463,7 +5463,7 @@
           },
           "_anchor": "msg-box5-hb",
           "_params": {
-            "imageSize": "37",
+            "imageSize": "31",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -5487,7 +5487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93354.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x9334.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5508,6 +5508,20 @@
           "title": "Gratis E-book: <br><span style=\"font-weight: normal;\">Rethinking Content Management</span>",
           "text": "\"What you need to know to plan&nbsp;for the cloud, mobile and more\"<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download E-book (PDF)</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div id=\"gartner\"></div>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-hr",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_tags": [
@@ -5531,7 +5545,7 @@
           "_anchor": "msg-box5-hf",
           "_params": {
             "imageSize": "37",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -5636,9 +5650,9 @@
           "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg); padding-top: 40px; padding-bottom: 20px; display:none;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.97; background-color: rgb(235,235,235);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"238\">TIBCO Nimbus / TIBCO Nimbus Maps</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"239\"><strong>TIBCO Nimbus giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.</strong><br><br><strong>Resultatet: </strong>det bliver lettere og hurtigere for medarbejderne til at gøre det rigtige på det rigtige tidspunkt, hvilket reducerer ineffektivitet og risiko og samtidig forbedrer compliance.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%; display:none;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #232323;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
           "_customTemplate": true,
-          "_anchor": "msg-box7-h7",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "msg-box7-h7"
         },
         {
           "_customTemplate": true,
@@ -5650,9 +5664,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-hp",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-hp"
         },
         {
           "_tags": [
@@ -5732,9 +5746,9 @@
           "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"display:none; opacity: 0.99; background-color: rgb(235,235,235);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n \n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"407\"><strong>TIBCO Nimbus giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.</strong><br><br><strong>Resultatet: </strong>det bliver lettere og hurtigere for medarbejderne til at gøre det rigtige på det rigtige tidspunkt, hvilket reducerer ineffektivitet og risiko og samtidig forbedrer compliance.<br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%; display:none;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #232323;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
           "_customTemplate": true,
-          "_anchor": "msg-box7-h8",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "msg-box7-h8"
         },
         {
           "_tags": [
@@ -5836,7 +5850,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105055.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x10505.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5868,9 +5882,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-hq",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-hq"
         },
         {
           "_tags": [
@@ -5950,9 +5964,9 @@
           "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"mbr-overlay\" style=\"display:none; opacity: 0.99; background-color: rgb(235,235,235);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"401\"><strong>In INTREXX you can easily design intranet pages and create applications for presenting, connecting, managing and using your company data in unlimited ways.</strong><br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/MfA6rKKkya0\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #232323;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
           "_customTemplate": true,
-          "_anchor": "msg-box7-h9",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "msg-box7-h9"
         },
         {
           "_tags": [
@@ -6006,7 +6020,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105056.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x10506.jpg",
               "link": "",
               "alt": "",
               "title": "",
