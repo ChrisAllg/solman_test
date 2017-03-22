@@ -1495,6 +1495,12 @@ h6,
 #extTabs1-dh .col-md-12 {
   text-align: left;
 }
+#custom-html-hx h3 {
+  text-align: left;
+}
+#custom-html-hx .col-md-12 {
+  text-align: left;
+}
 #contacts1-cz P {
   font-size: 17px;
   color: #cccccc;
