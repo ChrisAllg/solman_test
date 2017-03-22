@@ -4917,7 +4917,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"contact-form\">\n\n<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 60px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"157\">\n                {JS_CODE_0}\n            </div>\n        </div>\n    </div>\n\n</section>\n    \n<div class=\"contact-form\"></div></div>",
+          "_customHTML": "<div class=\"contact-form\">\n\n<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 60px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"159\">\n                <iframe src=\"//solman.mautic.net/form/8\" width=\"300\" height=\"300\">&amp;lt;p&amp;gt;Your browser does not support iframes.&amp;lt;/p&amp;gt;</iframe>\n            </div>\n        </div>\n    </div>\n\n</section>\n    \n<div class=\"contact-form\"></div></div>",
           "_customCSS": ".contact-form {color:#FFF}\n.contact-form button, input, select, textarea {color:#333}",
           "alias": "code-editor",
           "_tags": [
@@ -4925,9 +4925,7 @@
           ],
           "_name": "pro.custom-html",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\" src=\"http://solman.mautic.net/form/generate.js?id=8\"></script>"
-          ],
+          "_JSplaceholders": [],
           "_anchor": "custom-html-gg"
         },
         {
@@ -5351,7 +5349,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56442.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56456.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5367,7 +5365,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59643.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59657.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5383,7 +5381,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48944.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48958.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5399,7 +5397,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50045.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50059.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5487,7 +5485,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93346.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93360.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5850,7 +5848,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105047.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105061.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6020,7 +6018,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105048.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105062.jpg",
               "link": "",
               "alt": "",
               "title": "",
