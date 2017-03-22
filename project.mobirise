@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "software-demos",
+    "currentPage": "kontakt-os.html",
     "name": "Solution Management 2",
     "theme": {
       "name": "mobirise3",
@@ -3936,7 +3936,7 @@
           "title": "Hvad er M-Files?",
           "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 1; background-color: #1e83b8;\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left; display:none;\" code-editable-id=\"37\">Løsninger</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"38\"><strong>Vi assisterer vore kunder med at anvende softwareløsninger til at støtte deres virksomhed inden for en rækkeprocesområder.</strong><br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%; display:none;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 1; background-color: #1e83b8;\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left; display:none;\" code-editable-id=\"154\">Løsninger</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"155\"><strong>Vi assisterer vore kunder med at anvende softwareløsninger til at støtte deres virksomhed inden for en rækkeprocesområder.</strong><br></p>\n\n                  </div>\n\n                  \n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
@@ -3982,7 +3982,7 @@
           "_anchor": "content1-fe",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgColor": "#efefef"
           },
           "text": "<ul><li>Sagsstyring (ESDH)</li><li>Kvalitetsstyring (QMS) og compliance</li><li>CRM</li><li>Projektstyring</li><li>Kontraktstyring</li><li>HR</li><li>Månedsafslutning</li><li>Leverandørfakturaer</li><li>Indscanning</li><li>Intranet</li><li>Extranet</li></ul>"
@@ -4303,7 +4303,7 @@
           "title": "Hvad er M-Files?",
           "text": "<b>M-Files er en førende global leverandør af løsninger til dokumenthåndtering, Elektronisk Sags- og Dokumenthåndtering (ESDH) og Enterprise Information Management.</b><br><br>M-Files styrer dine dokumenter og alle andre informationer – lige som du vil have det. M-Files er karakteriseret ved brugervenlighed, høj grad af brugeraccept og en fuldt skalerbar teknologi. M-Files fokuserer på at organisere dokumenter efter, hvad det er – ikke hvor det er gemt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 1; background-color: #1e83b8;\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left; display:none;\" code-editable-id=\"39\">Konsulentydelser</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"40\"><strong>Solution Management tilbyder konsulentydelser primært vedrørende indførelse af vores softwareløsninger.</strong><br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%; display:none;\">\n                  <div class=\"mbr-figure\"><iframe width=\"500\" height=\"280\" src=\"https://www.youtube.com/embed/QuNgPhiZcX8\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"padding-top: 40px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 1; background-color: #1e83b8;\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h1 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"text-align: left; display:none;\" code-editable-id=\"150\">Konsulentydelser</h1>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"151\"><strong>Solution Management tilbyder konsulentydelser primært vedrørende indførelse af vores softwareløsninger.</strong><br></p>\n\n                  </div>\n\n                  \n              </div>\n\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, .lead p {\n\tcolor: #fff;\n}\nH3 {\n\ttext-align: left;\n}\nB {\n\ttext-align: left;\n}\nP {\n\ttext-align: left;\n\tcolor: #ffffff;\n\tfont-size: 18px;\n}\n",
@@ -4363,7 +4363,7 @@
           "_anchor": "content7-g8",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "text1": "<h2>Planlægning</h2><ul><li>Installation afsoftware</li><li>Opgraderinger</li><li>Integration og API</li><li>Scripting</li><li>Business Consulting</li></ul>",
@@ -4896,9 +4896,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#1e83b8"
+            "bgColor": "#004f6c"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#video1\" data-toolbar=\"-mbrBtnMove\">Software demos</a>   <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"nimbus.html#extFeatures8-b5\" data-toolbar=\"-mbrBtnMove\">Whitepapers</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Software demos</a>   <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Whitepapers</a>   "
         },
         {
           "_customTemplate": true,
@@ -4917,7 +4917,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"contact-form\">\n\n<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 60px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"950\">\n                {JS_CODE_0}\n            </div>\n        </div>\n    </div>\n\n</section>\n    \n<div class=\"contact-form\"></div></div>",
+          "_customHTML": "<div class=\"contact-form\">\n\n<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 60px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"157\">\n                {JS_CODE_0}\n            </div>\n        </div>\n    </div>\n\n</section>\n    \n<div class=\"contact-form\"></div></div>",
           "_customCSS": ".contact-form {color:#FFF}\n.contact-form button, input, select, textarea {color:#333}",
           "alias": "code-editor",
           "_tags": [
@@ -5351,7 +5351,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56428.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56442.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5367,7 +5367,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59629.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59643.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5383,7 +5383,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48930.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48944.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5399,7 +5399,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50031.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50045.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5487,7 +5487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93346.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5850,7 +5850,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105033.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105047.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6020,7 +6020,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105034.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105048.jpg",
               "link": "",
               "alt": "",
               "title": "",
