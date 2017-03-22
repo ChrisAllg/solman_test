@@ -5351,7 +5351,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56414.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56421.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5367,7 +5367,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59615.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59622.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5383,7 +5383,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48916.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48923.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5399,7 +5399,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50017.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50024.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5487,7 +5487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93318.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93325.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5850,7 +5850,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105026.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6020,7 +6020,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105020.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105027.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6038,7 +6038,7 @@
               "size": 0
             }
           },
-          "title": "\u001bLive demo:<br><span style=\"font-weight: normal;\">Intrexx Sample Web Portal</span>",
+          "title": "Live demo:<br><span style=\"font-weight: normal;\">Intrexx Sample Web Portal</span>",
           "text": "<span style=\"font-size: 25px; line-height: 18.5px;\">Take a look at the demo portal (opens in a new window):</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://event4teams.com/en/#{1}\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live demo</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Få personlig demo</a>"
         },
