@@ -1686,11 +1686,14 @@ h6,
 #msg-box5-f1 SPAN {
   color: #ffffff;
 }
-#custom-html-f4 h3 {
-  text-align: left;
+#content1-hw .contact-form {
+  color: #ffffff;
 }
-#custom-html-f4 .col-md-12 {
-  text-align: left;
+#content1-hw .contact-form button,
+#content1-hw input,
+#content1-hw select,
+#content1-hw textarea {
+  color: #333333;
 }
 #contacts1-f5 P {
   font-size: 17px;
@@ -1827,6 +1830,15 @@ h6,
 #content1-fe H2 {
   font-size: 30px;
 }
+#content1-hs .contact-form {
+  color: #ffffff;
+}
+#content1-hs .contact-form button,
+#content1-hs input,
+#content1-hs select,
+#content1-hs textarea {
+  color: #333333;
+}
 #contacts1-fm P {
   font-size: 17px;
   color: #cccccc;
@@ -1958,6 +1970,15 @@ h6,
 }
 #content7-g8 H2 {
   font-size: 25px;
+}
+#content1-ht .contact-form {
+  color: #ffffff;
+}
+#content1-ht .contact-form button,
+#content1-ht input,
+#content1-ht select,
+#content1-ht textarea {
+  color: #333333;
 }
 #contacts1-g4 P {
   font-size: 17px;
@@ -2102,6 +2123,15 @@ h6,
 #buttons1-gc .btn {
   font-family: 'Oswald', sans-serif;
   font-size: 17px;
+}
+#content1-hu .contact-form {
+  color: #ffffff;
+}
+#content1-hu .contact-form button,
+#content1-hu input,
+#content1-hu select,
+#content1-hu textarea {
+  color: #333333;
 }
 #contacts1-gi P {
   font-size: 17px;
@@ -2423,6 +2453,15 @@ h6,
 }
 #msg-box5-ha SPAN {
   color: #232323;
+}
+#content1-hv .contact-form {
+  color: #ffffff;
+}
+#content1-hv .contact-form button,
+#content1-hv input,
+#content1-hv select,
+#content1-hv textarea {
+  color: #333333;
 }
 #contacts1-h0 P {
   font-size: 17px;
